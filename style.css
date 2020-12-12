@@ -18,4 +18,6 @@ body{
 	margin-left:auto;
 }
 
-body{background-repeat:no-repeat;}
+body{background-repeat:no-repeat;
+backend-size:cover;
+}
